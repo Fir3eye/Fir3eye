@@ -13,11 +13,11 @@
 
 <p align="left"> <a href="https://twitter.com/sudheersen_17" target="blank"><img src="https://img.shields.io/twitter/follow/sudheersen_17?logo=twitter&style=for-the-badge" alt="sudheersen_17" /></a> </p>
 
-- 🔭 I’m currently working on [Kubernetes Project](https://www.linkedin.com/sudheer-sen)
+- 🔭 I’m currently working on [Kubernetes Project](https://www.linkedin.com/in/sudheer-sen/)
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/sudheer-sen](https://www.linkedin.com/sudheer-sen)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/sudheer-sen](https://www.linkedin.com/in/sudheer-sen/)
 
 - 📫 How to reach me **https://www.linkedin.com/sudheer-sen**
 
@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sudheersen_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudheersen_17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sudheer-sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudheer-sen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sudheer-sen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudheer-sen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
