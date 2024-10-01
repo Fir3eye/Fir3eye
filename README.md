@@ -7,12 +7,17 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+<a href="https://www.linkedin.com/in/sudheer-sen/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</a>
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+</a>
+<a href="https://x.com/sudheersen17" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+</a>
 </div>
 
-###
+### 
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -80,7 +85,40 @@
 
 ###
 
-<p align="left">https://www.youtube.com/@SenDevOps</p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+</div>
+
+###
+<table>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=ZzNP0P35Kio&t=1094s" target="_blank">
+        <img src="https://ytcards.demolab.com/?id=ZzNP0P35Kio&title=Deploy+Amazon+Prime+Video+Clone+On+EKS+Cluster&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Deploy Amazon Prime Video Clone On EKS Cluster" width="250" style="border-radius:5px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=JIkr2VoY960&t=577s" target="_blank">
+        <img src="https://ytcards.demolab.com/?id=JIkr2VoY960&title=Deploy+Amazon+Prime+Video+Clone+On+Kind+Cluster&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Your Video Title Here" width="250" style="border-radius:5px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=_FH2j3GB8PA&t=83s" target="_blank">
+        <img src="https://ytcards.demolab.com/?id=_FH2j3GB8PA&title=Deploy+Amazon+Prime+Video+Clone+On+EKS+Cluster&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Your Video Title Here" width="250" style="border-radius:5px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=4WjIW06DLto&t=80s" target="_blank">
+        <img src="https://ytcards.demolab.com/?id=4WjIW06DLto&title=Deploy+Amazon+Prime+Video+Clone+On+EKS+Cluster&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Your Video Title Here" width="250" style="border-radius:5px;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+  </tr>
+</table>
+
+
+
 
 ###
 
@@ -93,9 +131,16 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://www.linkedin.com/in/sudheer-sen/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://www.youtube.com/@SenDevOps" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
+  </a>
+  <a href="https://discord.com/invite/YOUR_DISCORD_INVITE_LINK" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
 </div>
+
 
 ###
