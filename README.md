@@ -100,7 +100,7 @@
   <tr>
     <td>
       <a href="https://youtu.be/RDiza4DcGs8?si=w1Y_xL1NBj6eeWgc" target="_blank">
-        <img src="https://ytcards.demolab.com/?id=RDiza4DcGs8&title=Your+New+Video+Title+Here&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Your New Video Title Here" width="250" style="border-radius:5px;">
+        <img src="https://ytcards.demolab.com/?id=RDiza4DcGs8&title=Amazon+Prime+Video+Clone+on+Kubernetes+Using Jenkins&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Deployment of Amazon Prime Video Clone on Kubernetes Using Jenkins " width="250" style="border-radius:5px;">
       </a>
     </td>
     <td>
