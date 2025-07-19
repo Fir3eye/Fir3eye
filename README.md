@@ -2,80 +2,71 @@
 
 ###
 
-<h3 align="center">👩‍💻  DevOps Engineer</h3>
+<h3 align="center">🚀 DevOps Engineer </h3>
+<h3 align="center"> | AWS | Linux | Docker | Kubernetes | Jenkins | Terraform | Cloud Automation</h3>
 
 ###
 
 <div align="center">
-<a href="https://www.linkedin.com/in/sudheer-sen/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  
-<a href="https://www.youtube.com/@SenDevOps" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-</a>
-
-<a href="https://x.com/sudheersen17" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-</a>
+  <a href="https://www.linkedin.com/in/sudheer-sen/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.youtube.com/@SenDevOps" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  </a>
+  <a href="https://x.com/sudheersen17" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  </a>
 </div>
 
-### 
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
-###
+<p align="left">
+I am a <strong>DevOps Engineer with 3+ years of hands-on experience</strong> in designing, implementing, and managing cloud-native and on-premises infrastructure.  
+<br><br>
+I specialize in <strong>AWS, Linux, Docker, Kubernetes, Jenkins, and Terraform</strong>, with a strong focus on automation, scalability, and high availability.  
+<br><br>
+I have expertise in building <strong>end-to-end CI/CD pipelines</strong>, optimizing deployments, and implementing modern DevOps practices to accelerate development workflows. My skill set includes <strong>Infrastructure as Code (IaC)</strong>, container orchestration, and <strong>monitoring/observability solutions</strong> for production-grade environments.  
+<br><br>
+💬 Ask me about **Cloud, Infrastructure, and DevOps Best Practices** ☁️.
+<br>
+📫 Reach me at: <strong>sudheerkumar.sen1999@gmail.com</strong>.
+</p>
 
-<p align="left">Hi 👋, I'm Sudheer<br>👩‍💻  DevOps Engineer<br><br>🌱 I’m currently learning Kubernetes<br>👨‍💻 All of my projects are available at https://github.com/Fir3eye<br>💬 Ask me about Cloud and DevOps ☁️<br>📫 Reach out to me at sudheerkumar.sen1999@gmail.com</p>
 
-###
+---
 
-<h3 align="left">🛠 Tools</h3>
-
-###
+<h3 align="left">🛠 Tools & Technologies</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="Prometheus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" />
 </div>
 
-###
+---
 
-<h3 align="left">🛠 Language</h3>
-
-###
+<h3 align="left">💻 Languages</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" />
 </div>
 
-###
+---
 
 <h3 align="left">📺 Latest YouTube Videos</h3>
 
@@ -93,57 +84,44 @@
   </a>
 </div>
 
-
-###
-## Latest Videos
+### Latest Videos
 <table>
   <tr>
     <td>
       <a href="https://youtu.be/RDiza4DcGs8?si=w1Y_xL1NBj6eeWgc" target="_blank">
-        <img src="https://ytcards.demolab.com/?id=RDiza4DcGs8&title=Amazon+Prime+Video+Clone+on+Kubernetes+Using Jenkins&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Deployment of Amazon Prime Video Clone on Kubernetes Using Jenkins " width="250" style="border-radius:5px;">
+        <img src="https://ytcards.demolab.com/?id=RDiza4DcGs8&title=Amazon+Prime+Video+Clone+on+Kubernetes+Using+Jenkins&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5" alt="Amazon Prime Video Clone on Kubernetes Using Jenkins" width="250">
       </a>
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=DACa2_JmVhE&t=598s" target="_blank">
-        <img src="https://ytcards.demolab.com/?id=ZzNP0P35Kio&title=Deploy+Amazon+Prime+Video+Clone+On+EKS+Cluster&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Deploy Amazon Prime Video Clone On EKS Cluster" width="250" style="border-radius:5px;">
+        <img src="https://ytcards.demolab.com/?id=ZzNP0P35Kio&title=Deploy+Amazon+Prime+Video+Clone+On+EKS+Cluster&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5" alt="Deploy Amazon Prime Video Clone On EKS Cluster" width="250">
       </a>
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=ZzNP0P35Kio&t=1094s" target="_blank">
-        <img src="https://ytcards.demolab.com/?id=JIkr2VoY960&title=Deploy+Amazon+Prime+Video+Clone+On+Kind+Cluster&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Deploy Amazon Prime Video Clone On Kind Cluster" width="250" style="border-radius:5px;">
+        <img src="https://ytcards.demolab.com/?id=JIkr2VoY960&title=Deploy+Amazon+Prime+Video+Clone+On+Kind+Cluster&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5" alt="Deploy Amazon Prime Video Clone On Kind Cluster" width="250">
       </a>
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=_FH2j3GB8PA&t=83s" target="_blank">
-        <img src="https://ytcards.demolab.com/?id=_FH2j3GB8PA&title=Deploy+Amazon+Prime+Video+Clone+On+EKS+Cluster&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Deploy Amazon Prime Video Clone On EKS Cluster" width="250" style="border-radius:5px;">
+        <img src="https://ytcards.demolab.com/?id=_FH2j3GB8PA&title=Deploy+Amazon+Prime+Video+Clone+On+EKS+Cluster&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5" alt="Deploy Amazon Prime Video Clone On EKS Cluster" width="250">
       </a>
     </td>
   </tr>
-  <tr>
-  </tr>
 </table>
 
+---
 
-
-
-###
-
-<h3 align="left">🏄‍♂️ Connect with me</h3>
-
-###
+<h3 align="left">🤝 Connect with Me</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sudheer-sen/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
   <a href="https://www.youtube.com/@SenDevOps" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube logo" />
   </a>
-  <!-- Discord link -->
   <a href="https://discord.gg/cm4GWRvN" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
   </a>
 </div>
-
-
-###
